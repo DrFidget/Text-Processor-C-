@@ -1,0 +1,26 @@
+Paragraph no :1
+sentence no :1
+words in sentence :1   are :5
+word no :1   total characters :6
+word no :2   total characters :3
+word no :3   total characters :5
+word no :4   total characters :3
+word no :5   total characters :5
+sentence no :2
+words in sentence :2   are :4
+word no :1   total characters :2
+word no :2   total characters :5
+word no :3   total characters :3
+word no :4   total characters :7
+Paragraph no :2
+sentence no :1
+words in sentence :1   are :4
+word no :1   total characters :2
+word no :2   total characters :5
+word no :3   total characters :3
+word no :4   total characters :7
+Paragraph no :3
+sentence no :1
+words in sentence :1   are :2
+word no :1   total characters :6
+word no :2   total characters :5

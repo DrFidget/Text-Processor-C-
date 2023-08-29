@@ -1,0 +1,4 @@
+this is a test program for the projrct 2022 ucp OOP.semester no 3.this project is on text processor.i am an undergraduate studient in ucp.im in semestrer 3.
+i am an undergraduate studient in ucp.im in semestrer 3.This is a test paragraph.this is atest paragraph 123.
+This is a test paragraph.this is atest paragraph 123.this is atest paragraph 123.
+A paragraph is a group of related sentences that support one main idea. In general, paragraphs consist of three parts: the topic sentence, body sentences, and the concluding or the bridge sentence to the next paragraph or section. Paragraphs show where the subdivisions of a research paper begin and end and, thus, help the reader see the organization of the essay and grasp its main points.

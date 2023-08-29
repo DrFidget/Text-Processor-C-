@@ -1,0 +1,274 @@
+Number of Paragraphs : 7
+
+Number of Sentences in Paragraph 1 : 1
+Number of Sentences in Paragraph 2 : 1
+Number of Sentences in Paragraph 3 : 8
+Number of Sentences in Paragraph 4 : 1
+Number of Sentences in Paragraph 5 : 1
+Number of Sentences in Paragraph 6 : 1
+Number of Sentences in Paragraph 7 : 3
+
+Number of Words in Sentence 1 of Paragraph 1 : 6
+Number of Words in Sentence 1 of Paragraph 2 : 6
+Number of Words in Sentence 1 of Paragraph 3 : 8
+Number of Words in Sentence 2 of Paragraph 3 : 12
+Number of Words in Sentence 3 of Paragraph 3 : 20
+Number of Words in Sentence 4 of Paragraph 3 : 11
+Number of Words in Sentence 5 of Paragraph 3 : 11
+Number of Words in Sentence 6 of Paragraph 3 : 26
+Number of Words in Sentence 7 of Paragraph 3 : 7
+Number of Words in Sentence 8 of Paragraph 3 : 18
+Number of Words in Sentence 1 of Paragraph 4 : 24
+Number of Words in Sentence 1 of Paragraph 5 : 32
+Number of Words in Sentence 1 of Paragraph 6 : 7
+Number of Words in Sentence 1 of Paragraph 7 : 19
+Number of Words in Sentence 2 of Paragraph 7 : 21
+Number of Words in Sentence 3 of Paragraph 7 : 18
+
+Number of Characters in word 1 of Sentence 1 of Paragraph 1 : 7
+Number of Characters in word 2 of Sentence 1 of Paragraph 1 : 6
+Number of Characters in word 3 of Sentence 1 of Paragraph 1 : 3
+Number of Characters in word 4 of Sentence 1 of Paragraph 1 : 4
+Number of Characters in word 5 of Sentence 1 of Paragraph 1 : 4
+Number of Characters in word 6 of Sentence 1 of Paragraph 1 : 2
+Number of Characters in word 1 of Sentence 1 of Paragraph 2 : 5
+Number of Characters in word 2 of Sentence 1 of Paragraph 2 : 6
+Number of Characters in word 3 of Sentence 1 of Paragraph 2 : 3
+Number of Characters in word 4 of Sentence 1 of Paragraph 2 : 4
+Number of Characters in word 5 of Sentence 1 of Paragraph 2 : 4
+Number of Characters in word 6 of Sentence 1 of Paragraph 2 : 2
+Number of Characters in word 1 of Sentence 1 of Paragraph 3 : 5
+Number of Characters in word 2 of Sentence 1 of Paragraph 3 : 9
+Number of Characters in word 3 of Sentence 1 of Paragraph 3 : 3
+Number of Characters in word 4 of Sentence 1 of Paragraph 3 : 7
+Number of Characters in word 5 of Sentence 1 of Paragraph 3 : 2
+Number of Characters in word 6 of Sentence 1 of Paragraph 3 : 4
+Number of Characters in word 7 of Sentence 1 of Paragraph 3 : 6
+Number of Characters in word 8 of Sentence 1 of Paragraph 3 : 11
+Number of Characters in word 1 of Sentence 2 of Paragraph 3 : 4
+Number of Characters in word 2 of Sentence 2 of Paragraph 3 : 1
+Number of Characters in word 3 of Sentence 2 of Paragraph 3 : 6
+Number of Characters in word 4 of Sentence 2 of Paragraph 3 : 10
+Number of Characters in word 5 of Sentence 2 of Paragraph 3 : 1
+Number of Characters in word 6 of Sentence 2 of Paragraph 3 : 5
+Number of Characters in word 7 of Sentence 2 of Paragraph 3 : 8
+Number of Characters in word 8 of Sentence 2 of Paragraph 3 : 3
+Number of Characters in word 9 of Sentence 2 of Paragraph 3 : 1
+Number of Characters in word 10 of Sentence 2 of Paragraph 3 : 8
+Number of Characters in word 11 of Sentence 2 of Paragraph 3 : 4
+Number of Characters in word 12 of Sentence 2 of Paragraph 3 : 6
+Number of Characters in word 1 of Sentence 3 of Paragraph 3 : 7
+Number of Characters in word 2 of Sentence 3 of Paragraph 3 : 3
+Number of Characters in word 3 of Sentence 3 of Paragraph 3 : 6
+Number of Characters in word 4 of Sentence 3 of Paragraph 3 : 2
+Number of Characters in word 5 of Sentence 3 of Paragraph 3 : 3
+Number of Characters in word 6 of Sentence 3 of Paragraph 3 : 4
+Number of Characters in word 7 of Sentence 3 of Paragraph 3 : 5
+Number of Characters in word 8 of Sentence 3 of Paragraph 3 : 2
+Number of Characters in word 9 of Sentence 3 of Paragraph 3 : 3
+Number of Characters in word 10 of Sentence 3 of Paragraph 3 : 6
+Number of Characters in word 11 of Sentence 3 of Paragraph 3 : 3
+Number of Characters in word 12 of Sentence 3 of Paragraph 3 : 5
+Number of Characters in word 13 of Sentence 3 of Paragraph 3 : 8
+Number of Characters in word 14 of Sentence 3 of Paragraph 3 : 2
+Number of Characters in word 15 of Sentence 3 of Paragraph 3 : 3
+Number of Characters in word 16 of Sentence 3 of Paragraph 3 : 4
+Number of Characters in word 17 of Sentence 3 of Paragraph 3 : 5
+Number of Characters in word 18 of Sentence 3 of Paragraph 3 : 2
+Number of Characters in word 19 of Sentence 3 of Paragraph 3 : 3
+Number of Characters in word 20 of Sentence 3 of Paragraph 3 : 10
+Number of Characters in word 1 of Sentence 4 of Paragraph 3 : 4
+Number of Characters in word 2 of Sentence 4 of Paragraph 3 : 3
+Number of Characters in word 3 of Sentence 4 of Paragraph 3 : 6
+Number of Characters in word 4 of Sentence 4 of Paragraph 3 : 10
+Number of Characters in word 5 of Sentence 4 of Paragraph 3 : 1
+Number of Characters in word 6 of Sentence 4 of Paragraph 3 : 5
+Number of Characters in word 7 of Sentence 4 of Paragraph 3 : 8
+Number of Characters in word 8 of Sentence 4 of Paragraph 3 : 3
+Number of Characters in word 9 of Sentence 4 of Paragraph 3 : 1
+Number of Characters in word 10 of Sentence 4 of Paragraph 3 : 8
+Number of Characters in word 11 of Sentence 4 of Paragraph 3 : 9
+Number of Characters in word 1 of Sentence 5 of Paragraph 3 : 3
+Number of Characters in word 2 of Sentence 5 of Paragraph 3 : 1
+Number of Characters in word 3 of Sentence 5 of Paragraph 3 : 6
+Number of Characters in word 4 of Sentence 5 of Paragraph 3 : 9
+Number of Characters in word 5 of Sentence 5 of Paragraph 3 : 2
+Number of Characters in word 6 of Sentence 5 of Paragraph 3 : 5
+Number of Characters in word 7 of Sentence 5 of Paragraph 3 : 8
+Number of Characters in word 8 of Sentence 5 of Paragraph 3 : 5
+Number of Characters in word 9 of Sentence 5 of Paragraph 3 : 9
+Number of Characters in word 10 of Sentence 5 of Paragraph 3 : 9
+Number of Characters in word 11 of Sentence 5 of Paragraph 3 : 6
+Number of Characters in word 1 of Sentence 6 of Paragraph 3 : 2
+Number of Characters in word 2 of Sentence 6 of Paragraph 3 : 5
+Number of Characters in word 3 of Sentence 6 of Paragraph 3 : 2
+Number of Characters in word 4 of Sentence 6 of Paragraph 3 : 7
+Number of Characters in word 5 of Sentence 6 of Paragraph 3 : 2
+Number of Characters in word 6 of Sentence 6 of Paragraph 3 : 3
+Number of Characters in word 7 of Sentence 6 of Paragraph 3 : 3
+Number of Characters in word 8 of Sentence 6 of Paragraph 3 : 10
+Number of Characters in word 9 of Sentence 6 of Paragraph 3 : 6
+Number of Characters in word 10 of Sentence 6 of Paragraph 3 : 2
+Number of Characters in word 11 of Sentence 6 of Paragraph 3 : 3
+Number of Characters in word 12 of Sentence 6 of Paragraph 3 : 7
+Number of Characters in word 13 of Sentence 6 of Paragraph 3 : 7
+Number of Characters in word 14 of Sentence 6 of Paragraph 3 : 1
+Number of Characters in word 15 of Sentence 6 of Paragraph 3 : 9
+Number of Characters in word 16 of Sentence 6 of Paragraph 3 : 2
+Number of Characters in word 17 of Sentence 6 of Paragraph 3 : 7
+Number of Characters in word 18 of Sentence 6 of Paragraph 3 : 2
+Number of Characters in word 19 of Sentence 6 of Paragraph 3 : 3
+Number of Characters in word 20 of Sentence 6 of Paragraph 3 : 3
+Number of Characters in word 21 of Sentence 6 of Paragraph 3 : 9
+Number of Characters in word 22 of Sentence 6 of Paragraph 3 : 6
+Number of Characters in word 23 of Sentence 6 of Paragraph 3 : 2
+Number of Characters in word 24 of Sentence 6 of Paragraph 3 : 3
+Number of Characters in word 25 of Sentence 6 of Paragraph 3 : 5
+Number of Characters in word 26 of Sentence 6 of Paragraph 3 : 9
+Number of Characters in word 1 of Sentence 7 of Paragraph 3 : 5
+Number of Characters in word 2 of Sentence 7 of Paragraph 3 : 3
+Number of Characters in word 3 of Sentence 7 of Paragraph 3 : 3
+Number of Characters in word 4 of Sentence 7 of Paragraph 3 : 10
+Number of Characters in word 5 of Sentence 7 of Paragraph 3 : 4
+Number of Characters in word 6 of Sentence 7 of Paragraph 3 : 5
+Number of Characters in word 7 of Sentence 7 of Paragraph 3 : 10
+Number of Characters in word 1 of Sentence 8 of Paragraph 3 : 2
+Number of Characters in word 2 of Sentence 8 of Paragraph 3 : 11
+Number of Characters in word 3 of Sentence 8 of Paragraph 3 : 7
+Number of Characters in word 4 of Sentence 8 of Paragraph 3 : 3
+Number of Characters in word 5 of Sentence 8 of Paragraph 3 : 7
+Number of Characters in word 6 of Sentence 8 of Paragraph 3 : 11
+Number of Characters in word 7 of Sentence 8 of Paragraph 3 : 5
+Number of Characters in word 8 of Sentence 8 of Paragraph 3 : 5
+Number of Characters in word 9 of Sentence 8 of Paragraph 3 : 9
+Number of Characters in word 10 of Sentence 8 of Paragraph 3 : 9
+Number of Characters in word 11 of Sentence 8 of Paragraph 3 : 4
+Number of Characters in word 12 of Sentence 8 of Paragraph 3 : 4
+Number of Characters in word 13 of Sentence 8 of Paragraph 3 : 11
+Number of Characters in word 14 of Sentence 8 of Paragraph 3 : 9
+Number of Characters in word 15 of Sentence 8 of Paragraph 3 : 7
+Number of Characters in word 16 of Sentence 8 of Paragraph 3 : 4
+Number of Characters in word 17 of Sentence 8 of Paragraph 3 : 5
+Number of Characters in word 18 of Sentence 8 of Paragraph 3 : 10
+Number of Characters in word 1 of Sentence 1 of Paragraph 4 : 2
+Number of Characters in word 2 of Sentence 1 of Paragraph 4 : 8
+Number of Characters in word 3 of Sentence 1 of Paragraph 4 : 8
+Number of Characters in word 4 of Sentence 1 of Paragraph 4 : 3
+Number of Characters in word 5 of Sentence 1 of Paragraph 4 : 5
+Number of Characters in word 6 of Sentence 1 of Paragraph 4 : 8
+Number of Characters in word 7 of Sentence 1 of Paragraph 4 : 6
+Number of Characters in word 8 of Sentence 1 of Paragraph 4 : 6
+Number of Characters in word 9 of Sentence 1 of Paragraph 4 : 5
+Number of Characters in word 10 of Sentence 1 of Paragraph 4 : 4
+Number of Characters in word 11 of Sentence 1 of Paragraph 4 : 2
+Number of Characters in word 12 of Sentence 1 of Paragraph 4 : 3
+Number of Characters in word 13 of Sentence 1 of Paragraph 4 : 9
+Number of Characters in word 14 of Sentence 1 of Paragraph 4 : 2
+Number of Characters in word 15 of Sentence 1 of Paragraph 4 : 1
+Number of Characters in word 16 of Sentence 1 of Paragraph 4 : 9
+Number of Characters in word 17 of Sentence 1 of Paragraph 4 : 2
+Number of Characters in word 18 of Sentence 1 of Paragraph 4 : 4
+Number of Characters in word 19 of Sentence 1 of Paragraph 4 : 3
+Number of Characters in word 20 of Sentence 1 of Paragraph 4 : 6
+Number of Characters in word 21 of Sentence 1 of Paragraph 4 : 5
+Number of Characters in word 22 of Sentence 1 of Paragraph 4 : 4
+Number of Characters in word 23 of Sentence 1 of Paragraph 4 : 2
+Number of Characters in word 24 of Sentence 1 of Paragraph 4 : 7
+Number of Characters in word 1 of Sentence 1 of Paragraph 5 : 3
+Number of Characters in word 2 of Sentence 1 of Paragraph 5 : 7
+Number of Characters in word 3 of Sentence 1 of Paragraph 5 : 2
+Number of Characters in word 4 of Sentence 1 of Paragraph 5 : 7
+Number of Characters in word 5 of Sentence 1 of Paragraph 5 : 2
+Number of Characters in word 6 of Sentence 1 of Paragraph 5 : 11
+Number of Characters in word 7 of Sentence 1 of Paragraph 5 : 3
+Number of Characters in word 8 of Sentence 1 of Paragraph 5 : 11
+Number of Characters in word 9 of Sentence 1 of Paragraph 5 : 3
+Number of Characters in word 10 of Sentence 1 of Paragraph 5 : 4
+Number of Characters in word 11 of Sentence 1 of Paragraph 5 : 3
+Number of Characters in word 12 of Sentence 1 of Paragraph 5 : 2
+Number of Characters in word 13 of Sentence 1 of Paragraph 5 : 3
+Number of Characters in word 14 of Sentence 1 of Paragraph 5 : 4
+Number of Characters in word 15 of Sentence 1 of Paragraph 5 : 7
+Number of Characters in word 16 of Sentence 1 of Paragraph 5 : 8
+Number of Characters in word 17 of Sentence 1 of Paragraph 5 : 2
+Number of Characters in word 18 of Sentence 1 of Paragraph 5 : 6
+Number of Characters in word 19 of Sentence 1 of Paragraph 5 : 6
+Number of Characters in word 20 of Sentence 1 of Paragraph 5 : 3
+Number of Characters in word 21 of Sentence 1 of Paragraph 5 : 4
+Number of Characters in word 22 of Sentence 1 of Paragraph 5 : 6
+Number of Characters in word 23 of Sentence 1 of Paragraph 5 : 3
+Number of Characters in word 24 of Sentence 1 of Paragraph 5 : 3
+Number of Characters in word 25 of Sentence 1 of Paragraph 5 : 2
+Number of Characters in word 26 of Sentence 1 of Paragraph 5 : 7
+Number of Characters in word 27 of Sentence 1 of Paragraph 5 : 2
+Number of Characters in word 28 of Sentence 1 of Paragraph 5 : 8
+Number of Characters in word 29 of Sentence 1 of Paragraph 5 : 5
+Number of Characters in word 30 of Sentence 1 of Paragraph 5 : 2
+Number of Characters in word 31 of Sentence 1 of Paragraph 5 : 1
+Number of Characters in word 32 of Sentence 1 of Paragraph 5 : 12
+Number of Characters in word 1 of Sentence 1 of Paragraph 6 : 5
+Number of Characters in word 2 of Sentence 1 of Paragraph 6 : 7
+Number of Characters in word 3 of Sentence 1 of Paragraph 6 : 2
+Number of Characters in word 4 of Sentence 1 of Paragraph 6 : 7
+Number of Characters in word 5 of Sentence 1 of Paragraph 6 : 2
+Number of Characters in word 6 of Sentence 1 of Paragraph 6 : 11
+Number of Characters in word 7 of Sentence 1 of Paragraph 6 : 10
+Number of Characters in word 1 of Sentence 1 of Paragraph 7 : 4
+Number of Characters in word 2 of Sentence 1 of Paragraph 7 : 5
+Number of Characters in word 3 of Sentence 1 of Paragraph 7 : 8
+Number of Characters in word 4 of Sentence 1 of Paragraph 7 : 9
+Number of Characters in word 5 of Sentence 1 of Paragraph 7 : 3
+Number of Characters in word 6 of Sentence 1 of Paragraph 7 : 7
+Number of Characters in word 7 of Sentence 1 of Paragraph 7 : 4
+Number of Characters in word 8 of Sentence 1 of Paragraph 7 : 2
+Number of Characters in word 9 of Sentence 1 of Paragraph 7 : 4
+Number of Characters in word 10 of Sentence 1 of Paragraph 7 : 5
+Number of Characters in word 11 of Sentence 1 of Paragraph 7 : 2
+Number of Characters in word 12 of Sentence 1 of Paragraph 7 : 3
+Number of Characters in word 13 of Sentence 1 of Paragraph 7 : 10
+Number of Characters in word 14 of Sentence 1 of Paragraph 7 : 13
+Number of Characters in word 15 of Sentence 1 of Paragraph 7 : 3
+Number of Characters in word 16 of Sentence 1 of Paragraph 7 : 13
+Number of Characters in word 17 of Sentence 1 of Paragraph 7 : 4
+Number of Characters in word 18 of Sentence 1 of Paragraph 7 : 2
+Number of Characters in word 19 of Sentence 1 of Paragraph 7 : 8
+Number of Characters in word 1 of Sentence 2 of Paragraph 7 : 3
+Number of Characters in word 2 of Sentence 2 of Paragraph 7 : 4
+Number of Characters in word 3 of Sentence 2 of Paragraph 7 : 2
+Number of Characters in word 4 of Sentence 2 of Paragraph 7 : 3
+Number of Characters in word 5 of Sentence 2 of Paragraph 7 : 9
+Number of Characters in word 6 of Sentence 2 of Paragraph 7 : 4
+Number of Characters in word 7 of Sentence 2 of Paragraph 7 : 5
+Number of Characters in word 8 of Sentence 2 of Paragraph 7 : 2
+Number of Characters in word 9 of Sentence 2 of Paragraph 7 : 5
+Number of Characters in word 10 of Sentence 2 of Paragraph 7 : 3
+Number of Characters in word 11 of Sentence 2 of Paragraph 7 : 12
+Number of Characters in word 12 of Sentence 2 of Paragraph 7 : 7
+Number of Characters in word 13 of Sentence 2 of Paragraph 7 : 7
+Number of Characters in word 14 of Sentence 2 of Paragraph 7 : 10
+Number of Characters in word 15 of Sentence 2 of Paragraph 7 : 3
+Number of Characters in word 16 of Sentence 2 of Paragraph 7 : 7
+Number of Characters in word 17 of Sentence 2 of Paragraph 7 : 4
+Number of Characters in word 18 of Sentence 2 of Paragraph 7 : 2
+Number of Characters in word 19 of Sentence 2 of Paragraph 7 : 3
+Number of Characters in word 20 of Sentence 2 of Paragraph 7 : 5
+Number of Characters in word 21 of Sentence 2 of Paragraph 7 : 9
+Number of Characters in word 1 of Sentence 3 of Paragraph 7 : 2
+Number of Characters in word 2 of Sentence 3 of Paragraph 7 : 8
+Number of Characters in word 3 of Sentence 3 of Paragraph 7 : 10
+Number of Characters in word 4 of Sentence 3 of Paragraph 7 : 11
+Number of Characters in word 5 of Sentence 3 of Paragraph 7 : 4
+Number of Characters in word 6 of Sentence 3 of Paragraph 7 : 4
+Number of Characters in word 7 of Sentence 3 of Paragraph 7 : 3
+Number of Characters in word 8 of Sentence 3 of Paragraph 7 : 6
+Number of Characters in word 9 of Sentence 3 of Paragraph 7 : 2
+Number of Characters in word 10 of Sentence 3 of Paragraph 7 : 3
+Number of Characters in word 11 of Sentence 3 of Paragraph 7 : 5
+Number of Characters in word 12 of Sentence 3 of Paragraph 7 : 9
+Number of Characters in word 13 of Sentence 3 of Paragraph 7 : 3
+Number of Characters in word 14 of Sentence 3 of Paragraph 7 : 3
+Number of Characters in word 15 of Sentence 3 of Paragraph 7 : 7
+Number of Characters in word 16 of Sentence 3 of Paragraph 7 : 1
+Number of Characters in word 17 of Sentence 3 of Paragraph 7 : 7
+Number of Characters in word 18 of Sentence 3 of Paragraph 7 : 9
+
